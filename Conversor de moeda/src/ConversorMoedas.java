@@ -56,6 +56,6 @@ public class ConversorMoedas {
             }
         }
 
-        JOptionPane.showMessageDialog(null, "Obrigado por utilizar o Conversor de Moedas!");
+        JOptionPane.showMessageDialog(null, "Obrigado por usar o Conversor de Moedas!");
     }
 }
